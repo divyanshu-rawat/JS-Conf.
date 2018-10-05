@@ -14,3 +14,7 @@ Repository comprises of collection of great talks from various js conferences.
 * [Exploring Augmented Reality on the Web - Jordan Santell - JSConf EU 2018](https://www.youtube.com/watch?v=bqmT0_w6_qc)
 
 * [Dan Abramov: Beyond React 16 | JSConf Iceland 2018](https://www.youtube.com/watch?v=nLF0n9SACd4)
+
+* [CS 50 - The Harvard Introductory Course](https://www.youtube.com/watch?v=Tc1EuaefYFo)
+
+* [Douglas Crockford - Lecture at Yahoo!](https://www.youtube.com/watch?v=v2ifWcnQs6M)
