@@ -6,4 +6,4 @@ Repository comprises of collection of great talks from various js conferences.
 
 * [Ashi Krishnan: Deep Learning in JS | JSConf EU 2018](https://youtu.be/SV-cgdobtTA)
 
-
+* [Jake Archibald: Building offline-first Progressive Web Apps - Google I/O 2016](https://www.youtube.com/watch?v=cmGr0RszHc8)
