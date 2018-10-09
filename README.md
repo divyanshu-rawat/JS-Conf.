@@ -20,3 +20,5 @@ Repository comprises of collection of great talks from various js conferences.
 * [Douglas Crockford - Lecture at Yahoo!](https://www.youtube.com/watch?v=v2ifWcnQs6M)
 
 * [AmsterdamJS Conference 2017](https://www.youtube.com/playlist?list=PLfIM4SvaiIyzaLhvwGEa4QzPb9oTD0Ioc)
+
+* [Wes Bos: Async + Await in JavaScript | DotJS Paris 2017](https://www.youtube.com/watch?v=DwQJ_NPQWWo)
