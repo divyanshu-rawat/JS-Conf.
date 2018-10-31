@@ -22,3 +22,5 @@ You can also have a look at this awesome list of [must-watch videos devoted to J
 * [AmsterdamJS Conference 2017](https://www.youtube.com/playlist?list=PLfIM4SvaiIyzaLhvwGEa4QzPb9oTD0Ioc)
 
 * [Wes Bos: Async + Await in JavaScript | DotJS Paris 2017](https://www.youtube.com/watch?v=DwQJ_NPQWWo)
+
+* [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM)
